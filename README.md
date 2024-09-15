@@ -4,8 +4,7 @@
 <h3 align="center">Flutter developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Lotus app and Meal app<br>🌱 I’m currently learning flutter and dart<br>💬 Ask me about flutter and dart
-
+🔭 I’m currently working on [meal_app](https://github.com/vohoangloc123/Meals_App)<br>🌱 I’m currently learning flutter and dart<br>💬 Ask me about flutter and dart<br>👨‍💻 All of my projects are available at [https://vohoangloc.netlify.app](https://vohoangloc.netlify.app) <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vo-hoang-loc) 
